@@ -18,4 +18,4 @@ def slope_formula(x1,y1,x2,y2):
     answer = simplify_fraction(rise, run)
     return answer
 
-print(slope_formula(6,-11,10,9), "Is your slope!")
+print(slope_formula(6,-11,10,9), "Is your slope!") # this is just a sample done!
